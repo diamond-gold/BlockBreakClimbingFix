@@ -1,0 +1,8 @@
+name: BlockBreakClimbingFix
+main: BlockBreakClimbingFix\Main
+version: 1.0.0
+api: [1.2.0]
+
+load: POSTWORLD
+authors: [ace]
+description: ""
