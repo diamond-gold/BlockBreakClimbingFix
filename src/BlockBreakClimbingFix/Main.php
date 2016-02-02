@@ -34,7 +34,7 @@ class Main extends PluginBase implements Listener{
 	/**
 	 * @param BlockBreakEvent $event
 	 *
-	 * @priority MONITOR
+	 * @priority HIGHEST
 	 */
 	public function onBreak(BlockBreakEvent $event){
 		if($event->isCancelled()){
